@@ -6,7 +6,7 @@
 <!--Intro start-->
 
 <div align="center">
- 🎓 INGENIERO INFORMÁTICO
+ 🎓 TECNICO MEDIO INFORMÁTICO
 💻 Desarrollador full-stack e IA developer
 
 📫 Contacto: **arriechesoy@gmail.com**  
